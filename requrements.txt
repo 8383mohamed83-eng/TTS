@@ -1,5 +1,2 @@
  streamlit 
-
- edge_tts 
-
- asyncio
+ edge-tts
